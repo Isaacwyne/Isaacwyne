@@ -1,5 +1,4 @@
 # 👷 Isaac Ruvuza
---
 
 ### Hi there 👋
 I'm a passionate aspiring software developer with a burning desire to turn complex problems into elegant solutions. I have always been drawn to the world of programming, fascinated by the power of technology and the endless possibilities it offers, driven by a thirst for knowledge and a relentless curiosity, I have spent countless hours studying programming languages and experimenting with different tools and techniques. I'm always looking for new ways to improve my skills and expand my knowledge, constantly pushing myself to become better.
